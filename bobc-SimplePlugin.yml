@@ -6,6 +6,6 @@ bobc-SimplePlugin:
       size: 7146
       name: SimplePlugin
       type: script
-      url: https://raw.githubusercontent.com/bobc/kc-SimplePluginExample/master/SimplePlugin-0.1.0.zip
+      url: https://raw.githubusercontent.com/bobc/KC_SimplePluginExample/master/SimplePlugin-0.1.0.zip
     version: '0.1.0'
   publisher: bobc
