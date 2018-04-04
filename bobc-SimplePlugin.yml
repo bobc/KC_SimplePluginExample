@@ -1,0 +1,11 @@
+bobc-SimplePlugin:
+  description: SimplePlugin example
+  packages:
+  - content:
+    - checksum: "SHA-256:30c90a46436487f1bfbfbd3b66b3c6ce503adcbf257e616941d0633c4010600f"
+      size: 7146
+      name: SimplePlugin
+      type: script
+      url: https://raw.githubusercontent.com/bobc/kc-SimplePluginExample/master/SimplePlugin-0.1.0.zip
+    version: '0.1.0'
+  publisher: bobc
